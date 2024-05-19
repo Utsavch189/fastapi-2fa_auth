@@ -1,0 +1,1 @@
+from sendmail.main import SendMail
